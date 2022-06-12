@@ -102,7 +102,7 @@ const List = props => {
           <hr />
         </div>
       )
-      )};
+      )}
     </ul>
   );
 };
