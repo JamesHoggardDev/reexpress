@@ -1,6 +1,6 @@
 
 ## cd server: 
-npm install
+npm install\
 npm run dev
 ## Available Scripts
 
