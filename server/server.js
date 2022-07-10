@@ -53,10 +53,10 @@ app.get("/api", (req, res) => {
                 "objectID": "28",
             },
             {
-                "name": "",
+                "name": "Jonas",
                 "num_comms": "120",
                 "comment": "This is just what I needed.",
-                "objectID": "46",
+                "objectID": "106",
             },
         ],
 });
